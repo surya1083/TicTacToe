@@ -104,7 +104,7 @@ bool gameover(){
 
 int main()
 {
-    cout<<"\nT I C K -- T A C -- T O E -- G A M E\n";
+    cout<<"\nT I C  -- T A C -- T O E -- G A M E\n";
     cout<<"\nFOR 2 PLAYERS\n";
     while(gameover()){
         display_boxes();
